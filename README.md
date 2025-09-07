@@ -24,6 +24,3 @@ and finally run by
 pnpm run dev
 
 iss sey local host pr open hoga
-
-[ http://localhost:5173/](url)
- 
